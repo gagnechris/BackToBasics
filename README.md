@@ -6,14 +6,11 @@ Contained within this project are samples of various data structures and algorit
 Arrays
 ------
 - Reverse String
-  [Java Implementation](../blob/master/src/main/java/com/gagnechris/arrays/ReverseString.java)
-
-
-  Scala Implementation In Progress
+  - [Java Implementation](../blob/master/src/main/java/com/gagnechris/arrays/ReverseString.java)
+  - Scala Implementation In Progress
 - Strings Permutation Checker
-  [Java Implementation](../blob/master/src/main/java/com/gagnechris/arrays/StringsPermutationChecker.java)
-
-  Scala Implementation In Progress
+  - [Java Implementation](../blob/master/src/main/java/com/gagnechris/arrays/StringsPermutationChecker.java)
+  - Scala Implementation In Progress
 - Unique Characters In String
-  [Java Implementation](../blob/master/src/main/java/com/gagnechris/arrays/UniqueCharactersInString.java)
-  Scala Implementation In Progress
+  - [Java Implementation](../blob/master/src/main/java/com/gagnechris/arrays/UniqueCharactersInString.java)
+  - Scala Implementation In Progress
