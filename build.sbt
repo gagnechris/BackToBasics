@@ -16,8 +16,11 @@ resolvers ++= Seq(
 libraryDependencies ++= {
   Seq(
     "ch.qos.logback" % "logback-classic" % "1.0.12",
-    "org.scalatest" %% "scalatest" % "2.0.M7" % "test"
+    "org.scalatest" %% "scalatest" % "2.0.M7" % "test",
+    "com.novocode" % "junit-interface" % "0.10" % "test"
   )
 }
+
+testOptions += Tests.Argument(TestFrameworks.JUnit, "-q", "-v")
 
 jacoco.settings
