@@ -7,6 +7,8 @@ target/
 /.ensime_lucene
 /.ensime_session
 *.log
+*.sublime-project
+*.sublime-workspace
 
 *.cache
 *.classpath

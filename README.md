@@ -14,3 +14,11 @@ Arrays
 - Unique Characters In String
   - [Java Implementation](../master/src/main/java/com/gagnechris/arrays/UniqueCharactersInString.java)
   - Scala Implementation In Progress
+
+Linked Lists
+------------
+- Singly Linked Lists (3 examples)
+  #. Append to tails
+  #. Delete node
+  #. Delete Duplicates
+  - [Java Implementation](../master/src/main/java/com/gagnechris/linkedlists/SinglyNode.java)

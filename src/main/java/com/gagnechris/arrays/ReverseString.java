@@ -3,6 +3,7 @@ package com.gagnechris.arrays;
 public class ReverseString {
 
   /** Takes a string and reverses it without using the reverse method in StringBuilder.
+   *  This version does require extra Space.
    *
    * @param  str The string to reverse
    * @return The reversed string.
@@ -20,6 +21,7 @@ public class ReverseString {
   }
 
   /** Takes a string and reverses it without using the reverse method in StringBuilder.
+   *  This version does not require extra Space.
    *
    * @param  str The string to reverse
    * @return The reversed string.

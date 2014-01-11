@@ -2,7 +2,7 @@ package com.gagnechris.arrays;
 
 public class UniqueCharactersInString {
 
-  /** Analyze input string to determin if the string contains only unique characters.
+  /** Analyze input string to determine if the string contains only unique characters.
    *  Time complexity: O(n)
    *  Space complexity: O(1)
    *
