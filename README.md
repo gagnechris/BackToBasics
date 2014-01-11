@@ -18,7 +18,14 @@ Arrays
 Linked Lists
 ------------
 - Singly Linked Lists (3 examples)
-  #. Append to tails
+  #. Append to tail
   #. Delete node
-  #. Delete Duplicates
+  #. Delete duplicates
   - [Java Implementation](../master/src/main/java/com/gagnechris/linkedlists/SinglyNode.java)
+  - Scala Implementation In Progress
+- Doubly Linked Lists (3 examples)
+  # Append to tails
+  # Delete node
+  # Delete duplicates
+  - [Java Implementation](../master/src/main/java/com/gagnechris/linkedlists/DoublyNode.java)
+  - Scala Implementation In Progress
