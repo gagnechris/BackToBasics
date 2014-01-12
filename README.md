@@ -29,3 +29,12 @@ Linked Lists
   # Delete duplicates
   - [Java Implementation](../master/src/main/java/com/gagnechris/linkedlists/DoublyNode.java)
   - Scala Implementation In Progress
+
+Stacks and Queues
+-----------------
+- Basic Stack Implementation
+  - [Java Implementation](../master/src/main/java/com/gagnechris/stacksandqueues/Stack.java)
+  - Scala Implementation In Progress
+- Basic Queue Implementation
+  - [Java Implementation](../master/src/main/java/com/gagnechris/stacksandqueues/Queue.java)
+  - Scala Implementation In Progress

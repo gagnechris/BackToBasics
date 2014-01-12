@@ -5,13 +5,25 @@ import java.util.ArrayList;
 
 public class SinglyNode {
   SinglyNode next = null;
-  int data;
+  Object data;
 
-  public SinglyNode(int d) {
+  public SinglyNode(Object d) {
     data = d;
   }
 
-  public void appendToTail(int d) {
+  public SinglyNode getNext() {
+    return next;
+  }
+
+  public void setNext(SinglyNode node) {
+    next = node;
+  }
+
+  public Object getData() {
+    return data;
+  }
+
+  public void appendToTail(Object d) {
     SinglyNode end = new SinglyNode(d);
     SinglyNode n = this;
     while (n.next != null) {
@@ -20,7 +32,7 @@ public class SinglyNode {
     n.next = end;
   }
 
-  public static SinglyNode deleteNode(SinglyNode head, int d) {
+  public static SinglyNode deleteNode(SinglyNode head, Object d) {
     SinglyNode n = head;
 
     if (n.data == d) {
